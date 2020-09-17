@@ -15,30 +15,11 @@ III. Information about the data processing
 
 ### I. Information about us as controllers of your data
 
-The party responsible for this website (the "controller") for purposes of data protection law is:
+The party responsible for this app (the "controller") is:
 
-Sample company/entrepreneur  
-Any street 1  
-12345 Anytown  
-Germany
+Till Konnegen
+Email: till.konnegen@protonmai.com
 
-Telephone: Telephone number  
-Fax: Fax number  
-Email: muster@mustermail.xy
-
-The controller's data protection officer is:
-
-Maxie Musterfrau 
-
-\[The following information must be added if an external data protection officer has been appointed\].
-
-Any street 1  
-12345 Anytown  
-Germany
-
-Telephone: Telephone number  
-Fax: Fax number  
-Email: datenschutz@mustermail.xy
 
 ### II. The rights of users and data subjects
 
